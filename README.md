@@ -1,7 +1,13 @@
 # ProcImgDig
 Compilation of codes used in the "Digital Image Processing" class
 
-Hello, first of all I want to clarify that English is not my first language, so if you find spelling errors I would be grateful if you would notify me.
-As it says in the description of the repository, in this place I will be saving everything related to code about a class called "Digital Image Processing".
+Hello, first of all I want to clarify that English is not my first language, so the material in this folder is entirely in Spanish, later I plan to upload a version in English (it's not definitive, it's only if I don't forget it).
 
-Well that's it
+Well that's it~
+_________________________________________________________
+
+Recopilación de códigos utilizados en la clase "Procesamiento de imágenes digitales"
+
+Hola, antes que nada quiero aclarar que el Inglés no es mi primer idioma, por lo que el material de esta carpeta está completamente en español, más adelante pienso subir una versión en inglés (no es definitivo, es solo si no me olvido).
+
+Bueno eso es todo~
